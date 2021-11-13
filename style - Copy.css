@@ -1,0 +1,61 @@
+.Audrey{
+background-color: tan;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+.TaChan{
+    text-align: center;
+    font-style: oblique;
+    color: turquoise;
+}
+
+.Paing{
+   text-align: center;
+   font-style: oblique;
+   color: skyblue;
+   margin: 95px;
+}
+ .review{
+     font-style: normal;
+     color: rosybrown;
+ }
+ .image{
+     background-attachment: fixed;
+     background-color: thistle;
+     padding-left: 90px;
+     
+ }
+.EX-pect{
+    
+    margin-bottom: 320px;
+    padding-left: 50px;
+    
+    
+}
+.expect{
+    padding-left: 40px;
+
+}
+
+.wattpad{
+    background-attachment: fixed;
+    background-color: orange;
+    padding-left: 70px;
+}
+
+.version{
+    color: cadetblue;
+    padding-right: 30px;
+}
+.special{
+    vertical-align: middle;
+    padding-right: 30px;
+    color: cadetblue;
+
+}
+
+.book{
+    background-attachment: fixed;
+    background-color: lavenderblush;
+}
